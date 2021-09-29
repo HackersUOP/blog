@@ -4,8 +4,9 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/company/hackers-club-uop'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -21,6 +22,10 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
 # -
+# -
+#   type: twitter             # icons powered by <https://fontawesome.com/>
+#   icon: 'fab fa-twitter'
+#
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
